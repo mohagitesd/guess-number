@@ -1,0 +1,9 @@
+# Un dossier 
+.vscode/
+
+# un fichier, tout dossier confondu
+**/.DS_Store
+
+# Tout les fichier qui finissent par .log
+
+.log
